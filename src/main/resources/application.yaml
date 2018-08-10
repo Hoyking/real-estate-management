@@ -1,0 +1,4 @@
+spring:
+  data:
+    cassandra:
+      keyspace-name: real_estate_management
